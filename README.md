@@ -24,7 +24,6 @@ I am an enthusiast of innovations and new challenges, currently pursuing a Compu
   </a>
 </div>
 
-
 ###
 
 ###
@@ -68,7 +67,6 @@ I am an enthusiast of innovations and new challenges, currently pursuing a Compu
   <img src="https://github-profile-trophy.vercel.app/?username=Emilyksori&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
-  
 ###
 
 <picture>
@@ -76,5 +74,3 @@ I am an enthusiast of innovations and new challenges, currently pursuing a Compu
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilyksori/emilyksori/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilyksori/emilyksori/output/pacman-contribution-graph.svg">
 </picture>
-
-###
